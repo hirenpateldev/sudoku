@@ -1,0 +1,44 @@
+﻿     .g1 {
+            background-color: beige;
+        }
+
+        .g2 {
+            background-color: lightcoral;
+        }
+
+        .g3 {
+            background-color: lightblue;
+        }
+
+        .g4 {
+            background-color: lightcyan;
+        }
+
+        .g5 {
+            background-color: lightgoldenrodyellow;
+        }
+
+        .g6 {
+            background-color: lightgreen;
+        }
+
+        .g7 {
+            background-color: lightpink;
+        }
+
+        .g8 {
+            background-color: lightsalmon;
+        }
+
+        .g9 {
+            background-color: aqua;
+        }
+
+        .editable {
+            color: blue;
+            cursor: pointer;
+        }
+
+            .editable:hover {
+                opacity: 0.7;
+            }
